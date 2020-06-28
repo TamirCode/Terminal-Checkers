@@ -388,6 +388,8 @@ def switch_player():
         current_player = p1
         current_player_list = p1l
 
+           
+# start of game
 winner = None
 force_eat = False
 game_is_active = True
